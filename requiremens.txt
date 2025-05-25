@@ -1,0 +1,7 @@
+mcp
+langchain
+langchain_groq
+python-dotenv
+nest_asyncio
+uv
+arxiv
