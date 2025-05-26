@@ -31,11 +31,11 @@ pip install -r requirements.txt
 
 ### Step 3: Run the tool server
 
-uv run mcp_project/server.py
+uv run mcp-project/server.py
 
 ### Step 4: Start the chatbot (in a new terminal)
 
-python mcp_project/client.py
+python mcp-project/client.py
 
 **You will be prompted to enter your GROQ API key securely when the chatbot starts.**
 
